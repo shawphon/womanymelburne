@@ -1,0 +1,60 @@
+[2019/04/19 04:45:40] INFO: **********************All Flies are ready.*************************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step1: process init_mcan_port.c#########################
+[2019/04/19 04:45:40] INFO: # find and open file pending_file/init_mcan_port.c successfully.
+[2019/04/19 04:45:40] INFO: Read file pending_file/init_mcan_port.c successfully.
+[2019/04/19 04:45:40] INFO: Comment out code successfully.
+[2019/04/19 04:45:40] INFO: Creat a new file in pending_file folder successfully.
+[2019/04/19 04:45:40] INFO: **********************End process init_mcan_port.c*************************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step2: process Com_Cbk_Adap.c##########################
+[2019/04/19 04:45:40] INFO: # find and open file pending_file/Com_Cbk_Adap.c successfully.
+[2019/04/19 04:45:40] INFO: # Read file pending_file/Com_Cbk_Adap.csuccessfully.
+[2019/04/19 04:45:40] INFO: # Add code successfully.
+[2019/04/19 04:45:40] INFO: Creat a new file in pending_file folder successfully.
+[2019/04/19 04:45:40] INFO: **********************End process Com_Cbk_Adap.c***************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step3: process PduR_PBcfg.c##############################
+[2019/04/19 04:45:40] INFO: # find and open file EN300P_v1.6.2.dbc successfully.
+[2019/04/19 04:45:40] INFO: # Read file EN300P_v1.6.2.dbcsuccessfully.
+[2019/04/19 04:45:40] INFO: # Get dictionary successfully, consisted with frame ID number and frame name.
+[2019/04/19 04:45:40] INFO: # Get dictionary successfully, consisted with frame ID number and frame cycletime.
+[2019/04/19 04:45:40] INFO: # Get the maximum cycletime.
+[2019/04/19 04:45:40] INFO: # Get the frame ID number with the maximum cycletime.
+[2019/04/19 04:45:40] INFO: # Get the frame name by the frame ID number.
+[2019/04/19 04:45:40] INFO: # Modify the error code with frame name successfully.
+[2019/04/19 04:45:40] INFO: Creat a new file in pending_file folder successfully.
+[2019/04/19 04:45:40] INFO: ***********************End process PduR_PBcfg.c****************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step4: process Can_PBCfg.c###############################
+[2019/04/19 04:45:40] INFO: # Read source file successfully:pending_file/Can_PBCfg.c
+[2019/04/19 04:45:40] INFO: # Read CSV file successfully and relative parameters has been extracted.
+[2019/04/19 04:45:40] INFO: # The line-number of the code has been found.
+[2019/04/19 04:45:40] INFO: # Original Communication parameters have been deleted successfully.
+[2019/04/19 04:45:40] INFO: # Communication parameters have been updated successfully.
+[2019/04/19 04:45:40] INFO: Creat a new file in pending_file folder successfully.
+[2019/04/19 04:45:40] INFO: ***********************End process Can_PBCfg.c****************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step5: process Can_Cfg.h###############################
+[2019/04/19 04:45:40] INFO: # Stardard mode, file, 'Can_Cfg.h' is no need to be modified.
+[2019/04/19 04:45:40] INFO: ***********************End process Can_Cfg.h****************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step6: process CanIf_cfg.h###############################
+[2019/04/19 04:45:40] INFO: # Stardard mode, file, 'CanIf_cfg.h' is no need to be modified.
+[2019/04/19 04:45:40] INFO: ***********************End process CanIf_cfg.h****************************
+
+
+[2019/04/19 04:45:40] INFO: #####################Step7: process Com_cfg.c###############################
+[2019/04/19 04:45:40] INFO: # Read file EN300P_v1.6.2.dbcsuccessfully.
+[2019/04/19 04:45:40] INFO: # information obtained from DBC file: id and name.
+[2019/04/19 04:45:40] INFO: # information obtained from DBC file: id and time.
+[2019/04/19 04:45:40] INFO: # Creat a new file in pending_file folder successfully.
+[2019/04/19 04:45:40] INFO: ***********************End process Com_cfg.c****************************
+
+

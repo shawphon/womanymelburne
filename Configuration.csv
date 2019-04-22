@@ -1,0 +1,11 @@
+items,content
+PropSeg,5
+PSEG1,10
+PSEG2,10
+SJW,4
+BRP,4
+baudrate,500000
+DBCName,EN300P_v1.6.2.dbc
+FrameType,0
+BSWTimeBase,10
+MCU_1,MCU
